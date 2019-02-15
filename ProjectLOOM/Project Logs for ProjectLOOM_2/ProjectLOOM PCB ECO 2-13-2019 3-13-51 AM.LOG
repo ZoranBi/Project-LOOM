@@ -1,6 +1,0 @@
-Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 12 New DesignItemId=Header 12H
-Change Component Footprint: Designator=P2 Old Footprint=HDR1X12 New Footprint=HDR1X12H
-Change Component Comment : Designator=P2 Old Comment=Header 12 New Comment=Header 12H
-Change Component Description : Designator=P2 Old Description=Header, 12-Pin New Description=Header, 12-Pin, Right Angle
-Added Pin To Net: NetName=NetCout_2 Pin=P2-10
-Added Member To Class: ClassName=ProjectLOOM Member=Component P2 Header 16
