@@ -1,0 +1,20 @@
+Net Status Report
+Filename     : C:\Users\azure\Desktop\ProjectLOOM\ProjectLOOM\ProjectLOOM.PcbDoc
+Date         : 2/14/2019
+Time         : 4:38:10 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    GND, Signal Layers Only, 3910.64mils
+    NetC3_2, Signal Layers Only, 544.171mils
+    NetL1_2, Signal Layers Only, 535.254mils
+    NetP1_1, Signal Layers Only, 829.754mils
+    NetP1_6, Signal Layers Only, 293.6mils
+    NetP2_3, Signal Layers Only, 1362.406mils
+    NetR1_2, Signal Layers Only, 225.886mils
+    NetR2_2, Signal Layers Only, 551.283mils
+    NetR3_2, Signal Layers Only, 483.244mils
+    NetR4_2, Signal Layers Only, 322.542mils
+    Vcc, Signal Layers Only, 4420.419mils
+    Vin, Signal Layers Only, 1281.545mils
+count : 12

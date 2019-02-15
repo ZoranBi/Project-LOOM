@@ -1,0 +1,24 @@
+Move Component(s) Origin to Grid
+Filename     : C:\Users\azure\Desktop\ProjectLOOM\ProjectLOOM\ProjectLOOM.PcbDoc
+Date         : 2/14/2019
+Time         : 3:32:57 PM
+Time Elapsed : 00:00:00
+
+
+    DIP Component U1-LMC6032IN (310.599mil,570mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT SIP Component U2-LM2575S-5.0_NOPB (250mil,1190mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R5-Res3 (465mil,809.685mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R4-Res3 (302.725mil,810mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R3-Res3 (653.74mil,580mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R2-Res3 (195mil,295mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-Res3 (340mil,295mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component P2-Header 12 (1950mil,2050mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component P2-Header 16 (1150mil,2050mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component P1-Header 6 (1100mil,210mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component L1-330uH (815mil,1960mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component J1-PJ-102AH (340mil,2015mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component D1-1N5817 (565mil,1235mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component Cout-330uF (900mil,1500mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component Cin-100uF (900mil,1120mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C3-Cap Semi (658.15mil,796.22mil) on Top Layer - Component pads are OFF grid. No action taken.
+count : 16
